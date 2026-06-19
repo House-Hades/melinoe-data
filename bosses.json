@@ -766,17 +766,33 @@
       ]
     },
     {
-      "name": "CHERUBIM",
-      "label": "Cherubim",
+      "name": "APOSTLE",
+      "label": "Apostle",
+      "spawnPosition": null,
+      "bossType": "DUNGEON",
+      "items": [
+        "SEARAH",
+        "CATEGORY_SIX",
+        "LEGGINGS_OF_FALSE_GLORY"
+      ]
+    },
+    {
+      "name": "HIEROPHANT",
+      "label": "Hierophant",
       "spawnPosition": null,
       "bossType": "DUNGEON",
       "items": [
         "PROMINENCE",
         "FLAME_OF_PENTECOST",
-        "DAUNTLESS_INFERNO",
-        "SEARAH",
-        "CATEGORY_SIX",
-        "LEGGINGS_OF_FALSE_GLORY",
+        "DAUNTLESS_INFERNO"
+      ]
+    },
+    {
+      "name": "CHERUBIM",
+      "label": "Cherubim",
+      "spawnPosition": null,
+      "bossType": "DUNGEON",
+      "items": [
         "SCEPTRE_OF_THE_FRACTURED_FIRMAMENT",
         "NACHASH_OF_THE_FIRST_LIE",
         "FORBIDDEN_FLEECE",
