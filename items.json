@@ -1618,7 +1618,7 @@
       "maxPity": 120
     },
     {
-      "name": "Dauntless Inferno",
+      "name": "DAUNTLESS_INFERNO",
       "rarity": "BLOODSHOT",
       "displayName": "Dauntless Inferno",
       "texturePath": "telos:material/armour/heavy/boots/ut-inferno",
