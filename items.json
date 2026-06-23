@@ -1215,7 +1215,7 @@
       "name": "SOURCESTONE",
       "rarity": "BLOODSHOT",
       "displayName": "Crimson Sourcestone",
-      "texturePath": "telos:material/misc/fragment",
+      "texturePath": "telos:material/misc/sourcestone",
       "maxPity": 66
     },
     {
