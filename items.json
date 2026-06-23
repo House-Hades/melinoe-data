@@ -1257,7 +1257,7 @@
       "name": "FRACTURED_NIHILITY",
       "rarity": "VOIDBOUND",
       "displayName": "Fractured Nihility",
-      "texturePath": "telos:material/fragment/nihility",
+      "texturePath": "telos:material/misc/nihility",
       "maxPity": 120
     },
     {
