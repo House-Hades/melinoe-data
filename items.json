@@ -1213,21 +1213,24 @@
       "rarity": "BLOODSHOT",
       "displayName": "Wrathguard",
       "texturePath": "telos:material/armour/heavy/chestplate/ut-onyx",
-      "maxPity": 75
+      "maxPity": 75,
+      "hasShiny": true
     },
     {
       "name": "BLOODSTRIDERS",
       "rarity": "BLOODSHOT",
       "displayName": "Bloodstriders",
       "texturePath": "telos:material/armour/light/leggings/ut-onyx",
-      "maxPity": 75
+      "maxPity": 75,
+      "hasShiny": true
     },
     {
       "name": "RUEFORGE",
       "rarity": "BLOODSHOT",
       "displayName": "Rueforge",
       "texturePath": "telos:material/armour/magical/boots/ut-onyx",
-      "maxPity": 75
+      "maxPity": 75,
+      "hasShiny": true
     },
     {
       "name": "SOURCESTONE",
