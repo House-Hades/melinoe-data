@@ -2,9 +2,9 @@
   "traits": [
     {
       "name": "Zenith Ray",
-      "description": "Standing still for 2.5s fires a laser in front of you for %s damage. (10s CD)",
+      "description": "Crouching for 2s fires a laser in front of you for %s damage. (15s CD)",
       "levels": [
-        68, 75, 82, 93, 100
+        63, 72, 82.5, 102, 112.5
       ]
     },
     {
@@ -196,7 +196,7 @@
       "name": "Soul Leach",
       "description": "Every weapon hit lifesteals for %s% of the base damage dealt.",
       "levels": [
-        0.16, 0.18, 0.2, 0.23, 0.25
+        0.16, 0.18, 0.20, 0.23, 0.25
       ]
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "name": "Primed",
-      "description": "Your first hit after not attacking for 6s strikes them a second time, allowing you to deal %sx weapon damage for 1.2s. (Cancels when swapping)",
+      "description": "Your first hit after not attacking for 4s strikes them a second time, allowing you to deal %sx weapon damage for 1.2s. (Cancels when swapping)",
       "levels": [
         1.2, 1.35, 1.5, 1.85, 2
       ]
