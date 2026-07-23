@@ -34,7 +34,8 @@
       "rarity": "IRRADIATED",
       "displayName": "Asteroid Staff",
       "texturePath": "telos:material/weapon/staff/ut-asteroid",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "AYAHUASCA_FLASK",
@@ -388,7 +389,8 @@
       "rarity": "GILDED",
       "displayName": "Lightning Sabatons",
       "texturePath": "telos:material/armour/heavy/boots/ut-lightning",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "GOLDEN_MARTIAL",
@@ -523,7 +525,8 @@
       "rarity": "GILDED",
       "displayName": "Corvus Trap",
       "texturePath": "telos:material/ability/trap/ut-corvus",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CORVACKS_MASK",
@@ -1438,7 +1441,8 @@
       "rarity": "BLOODSHOT",
       "displayName": "Seraph's Essence",
       "texturePath": "telos:material/ability/orb/ut-essence",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SOULLESS_SHOES",
@@ -1536,7 +1540,8 @@
       "rarity": "BLOODSHOT",
       "displayName": "Spinestone",
       "texturePath": "telos:material/ability/jewel/ut-spinestone",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "LEGION",
@@ -1557,7 +1562,8 @@
       "rarity": "BLOODSHOT",
       "displayName": "Visage of the Night",
       "texturePath": "telos:material/ability/emblem/ut-visage",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "BAPHOMETS_BOMB",
@@ -1572,21 +1578,24 @@
       "rarity": "BLOODSHOT",
       "displayName": "Blood of the Heretics",
       "texturePath": "telos:material/ability/poison/ut-heretics",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "FEATHERS_OF_THE_SERAPH",
       "rarity": "BLOODSHOT",
       "displayName": "Feathers of the Seraph",
       "texturePath": "telos:material/ability/kunai/ut-feathers",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "EMPYREAN_EPITOME",
       "rarity": "BLOODSHOT",
       "displayName": "Empyrean Epitome",
       "texturePath": "telos:material/ability/skull/ut-epitome",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "THANATOS",
