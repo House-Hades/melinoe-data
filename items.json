@@ -50,7 +50,8 @@
       "rarity": "IRRADIATED",
       "displayName": "Wartorn Sandals",
       "texturePath": "telos:material/armour/light/boots/ut-wartorn",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "THORNWOOD_DRUID",
