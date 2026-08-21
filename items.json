@@ -755,7 +755,8 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Boots",
       "texturePath": "telos:material/armour/magical/boots/ut-fungal",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "AMETHYST_WORMPIERCER",
@@ -1264,7 +1265,8 @@
       "rarity": "BLOODSHOT",
       "displayName": "Event Horizon",
       "texturePath": "telos:material/ability/orb/ut-horizon",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "OBLIVIONS_REACH",
