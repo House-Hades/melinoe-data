@@ -58,7 +58,7 @@
       "bossBarHash": -168181711,
       "items": [
         "CARROT_ON_A_STICK",
-        "SPRING_SEASONED_SCRIPTURE"
+        "SPRING_SEASONED_SKULL"
       ]
     },
     {
@@ -358,7 +358,7 @@
       "items": [
         "DEMONIC_BLADE",
         "DEMONIC_DAGGER",
-        "MAGMA_INFUSED_SCRIPTURE",
+        "MAGMA_INFUSED_SKULL",
         "BLAZEY",
         "MAGMA_RUNNER"
       ]
@@ -385,7 +385,7 @@
       "bossBarHash": -1659167450,
       "items": [
         "FROZEN_STAR",
-        "FROSTSPARK_SKULL",
+        "FROSTSPARK_SCRIPTURE",
         "FROZEN_JEWEL",
         "ICE_PENGUIN",
         "FROSTFANG"
@@ -587,9 +587,9 @@
       "bossBarHash": -1382454635,
       "items": [
         "BLOSSOM_BLADE",
-        "DILAPIDATED_SKULL",
+        "DILAPIDATED_SCRIPTURE",
         "GREATWOOD_GREAVES",
-        "BOOK_OF_LIFE",
+        "CRANIUM_TERRARIUM",
         "ELDER_ENT",
         "WOODLAND_MANTIBANE"
       ]
@@ -651,7 +651,7 @@
       "bossBarHash": 1420701227,
       "items": [
         "CINDER_REACH",
-        "CINDER_SKULL",
+        "CINDER_SCRIPTURE",
         "SCORCHSCALE_LEGGINGS",
         "TARTALINK",
         "EMBERAPTOR"
@@ -771,7 +771,7 @@
       "bossType": "DUNGEON",
       "bossBarHash": 230903377,
       "items": [
-        "SCRIPTURE_OF_THE_TOTEM_MASTER",
+        "USNEA",
         "NATURES_GIFT",
         "SPIRITBLOOM_GOWN",
         "MOSSLIGHT",
