@@ -244,10 +244,10 @@
       "maxPity": 120
     },
     {
-      "name": "MAGMA_INFUSED_SCRIPTURE",
+      "name": "MAGMA_INFUSED_SKULL",
       "rarity": "GILDED",
-      "displayName": "Magma Infused Scripture",
-      "texturePath": "telos:material/ability/scripture/ut-magma",
+      "displayName": "Magma Infused Skull",
+      "texturePath": "telos:material/ability/skull/ut-magma",
       "maxPity": 120
     },
     {
@@ -309,10 +309,10 @@
       "hasShiny": true
     },
     {
-      "name": "FROSTSPARK_SKULL",
+      "name": "FROSTSPARK_SCRIPTURE",
       "rarity": "GILDED",
-      "displayName": "Frostspark Skull",
-      "texturePath": "telos:material/ability/skull/ut-frostspark",
+      "displayName": "Frostspark Scripture",
+      "texturePath": "telos:material/ability/scripture/ut-frostspark",
       "maxPity": 120
     },
     {
@@ -558,10 +558,10 @@
       "maxPity": 120
     },
     {
-      "name": "SPRING_SEASONED_SCRIPTURE",
+      "name": "SPRING_SEASONED_SKULL",
       "rarity": "ROYAL",
-      "displayName": "Spring Seasoned Scripture",
-      "texturePath": "telos:material/ability/scripture/ut-spring",
+      "displayName": "Spring Seasoned Skull",
+      "texturePath": "telos:material/ability/skull/ut-spring",
       "maxPity": 120,
       "hasShiny": true
     },
@@ -867,8 +867,9 @@
       "name": "CHRONOS_HEART",
       "rarity": "ROYAL",
       "displayName": "Chronos Heart",
-      "texturePath": "telos:material/ability/skull/ut-heart",
-      "maxPity": 120
+      "texturePath": "telos:material/ability/scripture/ut-heart",
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CHRONOS_LEGGINGS",
@@ -990,10 +991,10 @@
       "maxPity": 120
     },
     {
-      "name": "DILAPIDATED_SKULL",
+      "name": "DILAPIDATED_SCRIPTURE",
       "rarity": "ROYAL",
-      "displayName": "Dilapidated Skull",
-      "texturePath": "telos:material/ability/skull/ut-dilapidated",
+      "displayName": "Dilapidated Scripture",
+      "texturePath": "telos:material/ability/scripture/ut-dilapidated",
       "maxPity": 120
     },
     {
@@ -1004,10 +1005,10 @@
       "maxPity": 120
     },
     {
-      "name": "BOOK_OF_LIFE",
+      "name": "CRANIUM_TERRARIUM",
       "rarity": "BLOODSHOT",
-      "displayName": "Book of Life",
-      "texturePath": "telos:material/ability/scripture/ut-life",
+      "displayName": "Cranium Terrarium",
+      "texturePath": "telos:material/ability/skull/ut-terrarium",
       "maxPity": 120
     },
     {
@@ -1091,7 +1092,7 @@
       "name": "SUNS_BLESSING",
       "rarity": "BLOODSHOT",
       "displayName": "Sun's Blessing",
-      "texturePath": "telos:material/ability/skull/ut-blessing",
+      "texturePath": "telos:material/ability/scripture/ut-blessing",
       "maxPity": 120
     },
     {
@@ -1116,10 +1117,10 @@
       "maxPity": 120
     },
     {
-      "name": "CINDER_SKULL",
+      "name": "CINDER_SCRIPTURE",
       "rarity": "ROYAL",
-      "displayName": "Cinder Skull",
-      "texturePath": "telos:material/ability/skull/ut-cinder",
+      "displayName": "Cinder Scripture",
+      "texturePath": "telos:material/ability/scripture/ut-cinder",
       "maxPity": 120
     },
     {
@@ -1488,10 +1489,10 @@
       "maxPity": 120
     },
     {
-      "name": "SCRIPTURE_OF_THE_TOTEM_MASTER",
+      "name": "USNEA",
       "rarity": "BLOODSHOT",
-      "displayName": "Scripture of the Totem Master",
-      "texturePath": "telos:material/ability/scripture/ut-totem",
+      "displayName": "Usnea",
+      "texturePath": "telos:material/ability/skull/ut-usnea",
       "maxPity": 120
     },
     {
@@ -1722,7 +1723,7 @@
       "name": "ENGINEERS_BLUEPRINT",
       "rarity": "ROYAL",
       "displayName": "Engineer's Blueprint",
-      "texturePath": "telos:material/ability/scripture/ut-engineer",
+      "texturePath": "telos:material/ability/skull/ut-engineer",
       "maxPity": 120
     },
     {
