@@ -8,6 +8,9 @@
       "md5": "86b3201237b3ffeed2e213e368ff1937" },
     { "name": "telos_radiant_isles", "fileName": "map/radiant_isles.png", "region": "radiant_isles",
       "x1": 99432, "z1": 99475, "x2": 100502, "z2": 100461,
-      "md5": "b50402abe79aeb485960118f4a8b6615" }
+      "md5": "b50402abe79aeb485960118f4a8b6615" },
+    { "name": "telos_voided_abyss", "fileName": "map/voided_abyss.png", "region": "voided_abyss",
+      "x1": -100002, "z1": -100002, "x2": -99154, "z2": -99475,
+      "md5": "020bd055191d2a0f62daa065f67afe78" }
   ]
 }

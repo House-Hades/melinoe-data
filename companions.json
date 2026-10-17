@@ -22,8 +22,7 @@
     { "dungeon": "omnipotents_citadel", "rarity": "FABLED" },
     { "dungeon": "fungal_cavern", "rarity": "FABLED" },
     { "dungeon": "corsairs_conductorium", "rarity": "FABLED" },
-    { "dungeon": "chronos", "rarity": "FABLED" },
-    { "dungeon": "freddys_pizzeria", "rarity": "FABLED" },
+    { "dungeon": "midnight_stronghold", "rarity": "FABLED" },
     { "dungeon": "anubis_lair", "rarity": "FABLED" },
     { "dungeon": "tartarus", "rarity": "FABLED" },
 
@@ -38,6 +37,7 @@
     { "dungeon": "celestials_province", "rarity": "EXOTIC" },
     { "dungeon": "tenebris", "rarity": "EXOTIC" },
     { "dungeon": "neo_eden", "rarity": "EXOTIC" },
+    { "dungeon": "valley_of_the_lost", "rarity": "EXOTIC" },
 
     { "dungeon": "starter", "rarity": "LEGACY" }
   ]

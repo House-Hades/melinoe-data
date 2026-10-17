@@ -115,16 +115,10 @@
       "finalBoss": "THALASSAR"
     },
     {
-      "name": "FREDDYS_PIZZERIA",
-      "areaName": "Freddy's Pizzeria",
+      "name": "MIDNIGHT_STRONGHOLD",
+      "areaName": "Midnight Stronghold",
       "dungeonType": "BOSS",
-      "finalBoss": "GOLDEN_FREDDY"
-    },
-    {
-      "name": "CHRONOS",
-      "areaName": "Chronos",
-      "dungeonType": "BOSS",
-      "finalBoss": "CHRONOS"
+      "finalBoss": "KAIROS"
     },
     {
       "name": "ANUBIS_LAIR",
@@ -221,6 +215,12 @@
       "areaName": "Neo Eden",
       "dungeonType": "ENDGAME",
       "finalBoss": "CHERUBIM"
+    },
+    {
+      "name": "VALLEY_OF_THE_LOST",
+      "areaName": "Valley of the Lost",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "OBLIVION"
     }
   ]
 }
