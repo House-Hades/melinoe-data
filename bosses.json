@@ -12,7 +12,8 @@
       "bossBarHash": -342545608,
       "items": [
         "ANUBIS_STAFF",
-        "JEWEL_OF_THE_NILE"
+        "JEWEL_OF_THE_NILE",
+        "FACE_OF_THE_HOUND"
       ]
     },
     {
@@ -43,7 +44,8 @@
       "bossBarHash": -1253632898,
       "items": [
         "ORB_OF_CONFLICT",
-        "KUNAI_OF_CONFLICT"
+        "KUNAI_OF_CONFLICT",
+        "DIRK_OF_CONFLICT"
       ]
     },
     {
@@ -58,22 +60,8 @@
       "bossBarHash": -168181711,
       "items": [
         "CARROT_ON_A_STICK",
-        "SPRING_SEASONED_SKULL"
-      ]
-    },
-    {
-      "name": "FREDDY",
-      "label": "Freddy",
-      "spawnPosition": {
-        "x": -136,
-        "y": 214,
-        "z": 653
-      },
-      "bossType": "WORLD",
-      "bossBarHash": -1343349613,
-      "items": [
-        "EXOSKELETON_HOOD",
-        "FREDDYS_MICROPHONE"
+        "SPRING_SEASONED_SKULL",
+        "TRAP_OF_EGGSELLENCE"
       ]
     },
     {
@@ -88,7 +76,8 @@
       "bossBarHash": -168176906,
       "items": [
         "CRYSTAL_POISON",
-        "CRYSTAL_KUNAI"
+        "CRYSTAL_KUNAI",
+        "CRYSTAL_GUMBOOTS"
       ]
     },
     {
@@ -103,7 +92,8 @@
       "bossBarHash": 1368623635,
       "items": [
         "BOW_OF_THE_FOREST",
-        "CURSED_BRIGADINE"
+        "CURSED_BRIGADINE",
+        "BRANCH_OF_YGGDRASIL"
       ]
     },
     {
@@ -118,22 +108,8 @@
       "bossBarHash": -1254008649,
       "items": [
         "SHIELD_OF_OGMUR",
-        "CLOAK_OF_THE_WARLORD"
-      ]
-    },
-    {
-      "name": "OOZUL",
-      "label": "Oozul",
-      "spawnPosition": {
-        "x": -424,
-        "y": 205,
-        "z": 91
-      },
-      "bossType": "WORLD",
-      "bossBarHash": -1907114029,
-      "items": [
-        "DIMENSIONAL_STAR",
-        "DIRK_OF_CHRONOS"
+        "CLOAK_OF_THE_WARLORD",
+        "STAR_OF_VALIDATION"
       ]
     },
     {
@@ -148,7 +124,8 @@
       "bossBarHash": 1368934038,
       "items": [
         "EMBLEM_OF_THE_JUGGERNAUT",
-        "GREAVES_OF_THE_JUGGERNAUT"
+        "GREAVES_OF_THE_JUGGERNAUT",
+        "CHIEFS_CROWN"
       ]
     },
     {
@@ -163,7 +140,8 @@
       "bossBarHash": -1622056066,
       "items": [
         "CLOAK_OF_BLOODY_SURPRISES",
-        "SPOOKY_SANDALS"
+        "SPOOKY_SANDALS",
+        "GHASTLY_HOWL"
       ]
     },
     {
@@ -175,8 +153,17 @@
         "z": 703
       },
       "bossType": "WORLD",
-      "bossBarHash": -1240191621,
-      "items": []
+      "bossBarHash": 832510374,
+      "items": [
+        "DREADSNATCHER",
+        "BRAMBLE_BOW",
+        "DIRK_OF_HORRORS",
+        "SCEPTRE_OF_SOULBOUND_TERROR",
+        "KUNAI_OF_CURSED_SOULS",
+        "EYE_OF_CONFLICTION",
+        "HOLLOWS_HARVEST",
+        "SOLAR_ECLIPSE_STAFF"
+      ]
     },
     {
       "name": "CLAUS",
@@ -521,30 +508,16 @@
       ]
     },
     {
-      "name": "GOLDEN_FREDDY",
-      "label": "Golden Freddy",
-      "spawnPosition": null,
-      "bossType": "DUNGEON",
-      "bossBarHash": -422985676,
-      "items": [
-        "ENDOSKELETON_SCEPTRE",
-        "CARL_TRAP",
-        "MECHANICAL_FUR_SANDALS",
-        "BARD",
-        "MECHAMAJESTIC"
-      ]
-    },
-    {
-      "name": "CHRONOS",
-      "label": "Chronos",
+      "name": "KAIROS",
+      "label": "Kairos",
       "spawnPosition": null,
       "bossType": "DUNGEON",
       "bossBarHash": 290925398,
       "items": [
-        "CHRONOS_SABATONS",
-        "CHRONOS_HEART",
-        "CHRONOS_LEGGINGS",
-        "ROBE_OF_CHRONOS",
+        "HOLLOW_SABATONS",
+        "KAIROS_HEART",
+        "ABYSSAL_WRAPS",
+        "MANTLE_OF_THE_LAST_DUSK",
         "NIGHT_RISER",
         "PHANTOMMARE"
       ]
@@ -873,6 +846,21 @@
         "CHARM_OF_BLASPHEMY",
         "CHERACUBE",
         "EZEKYROS"
+      ]
+    },
+    {
+      "name": "OBLIVION",
+      "label": "Oblivion",
+      "spawnPosition": null,
+      "bossType": "DUNGEON",
+      "bossBarHash": -77383762,
+      "items": [
+        "PLAN_B",
+        "ALL_FOR_ONE",
+        "DESPERADO",
+        "ETERNAL_MAW",
+        "GEMALOF",
+        "YAMALOF"
       ]
     }
   ]

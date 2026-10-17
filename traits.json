@@ -44,9 +44,10 @@
     },
     {
       "name": "Ragebrew",
-      "description": "Drinking a flask grants +%s 𖄕Atk for 10 seconds.",
+      "description": "Drinking a flask grants +%s 𖄕Atk for 10 seconds and +%s 𖄕Atk passively per missing flask.",
       "levels": [
-        5, 6, 7, 9, 10
+        2, 3, 4, 6, 7,
+        0.8, 1.0, 1.2, 1.4, 1.5
       ]
     },
     {
@@ -215,9 +216,9 @@
     },
     {
       "name": "Primed",
-      "description": "Your first hit after not attacking for 4s strikes them a second time, allowing you to deal %sx weapon damage for 1.2s. (Cancels when swapping)",
+      "description": "Your first hit after not attacking for %sx of your weapons cooldown causes you to deal 2x damage until your weapon is off cooldown again. (Cancels when swapping)",
       "levels": [
-        1.2, 1.35, 1.5, 1.85, 2
+        1.97, 1.94, 1.91, 1.87, 1.85
       ]
     },
     {

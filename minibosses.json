@@ -53,6 +53,22 @@
         { "x": 100228, "y": 115, "z": 100131 },
         { "x": 99798, "y": 9, "z": 99718 },
         { "x": 99567, "y": 69, "z": 100013 }
+      ] },
+    { "name": "OOZUL", "label": "Oozul", "region": "voided_abyss",
+      "texture": "telos:material/boss/oozul",
+      "note": "Can spawn at any locations",
+      "positions": [
+        { "x": -99324, "y": 147, "z": -99958 },
+        { "x": -99455, "y": 151, "z": -99959 },
+        { "x": -99597, "y": 151, "z": -99694 }
+      ] },
+    { "name": "VUDU", "label": "Vudu", "region": "voided_abyss",
+      "texture": "telos:material/boss/vudu",
+      "note": "Can spawn at any locations",
+      "positions": [
+        { "x": -99250, "y": 156, "z": -99681 },
+        { "x": -99966, "y": 157, "z": -99865 },
+        { "x": -99949, "y": 153, "z": -99620 }
       ] }
   ]
 }
