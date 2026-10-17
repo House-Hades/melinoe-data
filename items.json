@@ -833,14 +833,14 @@
       "name": "NIGHT_RISER",
       "rarity": "COMPANION",
       "displayName": "Night Riser",
-      "texturePath": "telos:material/pet/chronos",
+      "texturePath": "telos:material/pet/midnight_stronghold",
       "maxPity": 120
     },
     {
       "name": "PHANTOMMARE",
       "rarity": "COMPANION",
       "displayName": "Phantommare",
-      "texturePath": "telos:material/mount/chronos",
+      "texturePath": "telos:material/mount/midnight_stronghold",
       "maxPity": 120
     },
     {
@@ -1857,6 +1857,20 @@
       "rarity": "COMPANION",
       "displayName": "Solar Eclipse Staff",
       "texturePath": "telos:material/skin/hallowed_staff",
+      "maxPity": 120
+    },
+    {
+      "name": "GEMALOF",
+      "rarity": "COMPANION",
+      "displayName": "Gemalof",
+      "texturePath": "telos:material/pet/valley_of_the_lost",
+      "maxPity": 120
+    },
+    {
+      "name": "YAMALOF",
+      "rarity": "COMPANION",
+      "displayName": "Yamalof",
+      "texturePath": "telos:material/mount/valley_of_the_lost",
       "maxPity": 120
     }
   ]
