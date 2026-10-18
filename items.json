@@ -1733,7 +1733,7 @@
       "name": "CRYSTAL_GUMBOOTS",
       "rarity": "ROYAL",
       "displayName": "Crystal Gumboots",
-      "texturePath": "telos:material/armour/light/boots/ut-gummboots",
+      "texturePath": "telos:material/armour/light/boots/ut-gumboots",
       "maxPity": 120
     },
     {
@@ -1761,13 +1761,13 @@
       "name": "TRAP_OF_EGGSELLENCE",
       "rarity": "ROYAL",
       "displayName": "Trap of Eggsellence",
-      "texturePath": "telos:material/ability/ut-eggsellence",
+      "texturePath": "telos:material/ability/trap/ut-eggsellence",
       "maxPity": 120
     },
     {
-      "name": "TRAP_OF_EGGSELLENCE",
+      "name": "FACE_OF_THE_HOUND",
       "rarity": "ROYAL",
-      "displayName": "Trap of Eggsellence",
+      "displayName": "Face Of The Hound",
       "texturePath": "telos:material/armour/heavy/helmet/ut-hound",
       "maxPity": 120
     },    
@@ -1788,7 +1788,7 @@
       "hasShiny": true
     },
     {
-      "name": "Plan B",
+      "name": "PLAN_B",
       "rarity": "BLOODSHOT",
       "displayName": "Plan B",
       "texturePath": "telos:material/ability/star/ut-plan",
