@@ -285,7 +285,8 @@
       "rarity": "GILDED",
       "displayName": "Hat of Lost Souls",
       "texturePath": "telos:material/armour/light/helmet/ut-soul",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DARK_KNIGHT",
@@ -582,7 +583,8 @@
       "rarity": "ROYAL",
       "displayName": "Cursed Brigadine",
       "texturePath": "telos:material/armour/light/chestplate/ut-brigadine",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "ORB_OF_CONFLICT",
@@ -597,7 +599,8 @@
       "rarity": "ROYAL",
       "displayName": "Kunai of Conflict",
       "texturePath": "telos:material/ability/kunai/ut-conflict",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CRYSTAL_POISON",
@@ -627,7 +630,8 @@
       "rarity": "ROYAL",
       "displayName": "Cloak of the Warlord",
       "texturePath": "telos:material/ability/cloak/ut-warlord",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "EMBLEM_OF_THE_JUGGERNAUT",
@@ -641,7 +645,8 @@
       "rarity": "ROYAL",
       "displayName": "Greaves of the Juggernaut",
       "texturePath": "telos:material/armour/heavy/leggings/ut-crayfish",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CLOAK_OF_BLOODY_SURPRISES",
@@ -726,7 +731,8 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Shield",
       "texturePath": "telos:material/ability/shield/ut-crystal",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CRYSTAL_BOOTS",
@@ -769,7 +775,8 @@
       "rarity": "ROYAL",
       "displayName": "Ethereal Longbow",
       "texturePath": "telos:material/weapon/bow/ut-ethereal",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SPECTRAL_ARMOUR",
@@ -904,7 +911,8 @@
       "rarity": "ROYAL",
       "displayName": "Cultist Hood",
       "texturePath": "telos:material/armour/magical/helmet/ut-cultist",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SOULS_OF_THE_CULT",
