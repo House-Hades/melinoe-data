@@ -86,7 +86,8 @@
       "rarity": "IRRADIATED",
       "displayName": "Arrowstorm Trap",
       "texturePath": "telos:material/ability/trap/ut-arrowstorm",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SHAMANOID",
@@ -783,7 +784,8 @@
       "rarity": "ROYAL",
       "displayName": "Spectral Armour",
       "texturePath": "telos:material/armour/light/chestplate/ut-spectral",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "OCEANIC_TORRENT",
