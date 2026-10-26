@@ -271,7 +271,8 @@
       "rarity": "GILDED",
       "displayName": "Doom Katana",
       "texturePath": "telos:material/weapon/katana/ut-doom",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DOOM_BOW",
@@ -942,7 +943,8 @@
       "rarity": "ROYAL",
       "displayName": "Blossom Blade",
       "texturePath": "telos:material/weapon/katana/ut-blossom",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DILAPIDATED_SCRIPTURE",
@@ -1455,21 +1457,24 @@
       "rarity": "BLOODSHOT",
       "displayName": "Usnea",
       "texturePath": "telos:material/ability/skull/ut-usnea",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "NATURES_GIFT",
       "rarity": "BLOODSHOT",
       "displayName": "Nature's Gift",
       "texturePath": "telos:material/armour/light/boots/ut-nature",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SPIRITBLOOM_GOWN",
       "rarity": "BLOODSHOT",
       "displayName": "Spiritbloom Gown",
       "texturePath": "telos:material/armour/magical/chestplate/ut-spiritbloom",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "MOSSLIGHT",
