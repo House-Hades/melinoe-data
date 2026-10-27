@@ -86,7 +86,8 @@
       "rarity": "IRRADIATED",
       "displayName": "Arrowstorm Trap",
       "texturePath": "telos:material/ability/trap/ut-arrowstorm",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SHAMANOID",
@@ -270,7 +271,8 @@
       "rarity": "GILDED",
       "displayName": "Doom Katana",
       "texturePath": "telos:material/weapon/katana/ut-doom",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DOOM_BOW",
@@ -285,7 +287,8 @@
       "rarity": "GILDED",
       "displayName": "Hat of Lost Souls",
       "texturePath": "telos:material/armour/light/helmet/ut-soul",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DARK_KNIGHT",
@@ -582,7 +585,8 @@
       "rarity": "ROYAL",
       "displayName": "Cursed Brigadine",
       "texturePath": "telos:material/armour/light/chestplate/ut-brigadine",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "ORB_OF_CONFLICT",
@@ -597,7 +601,8 @@
       "rarity": "ROYAL",
       "displayName": "Kunai of Conflict",
       "texturePath": "telos:material/ability/kunai/ut-conflict",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CRYSTAL_POISON",
@@ -627,7 +632,8 @@
       "rarity": "ROYAL",
       "displayName": "Cloak of the Warlord",
       "texturePath": "telos:material/ability/cloak/ut-warlord",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "EMBLEM_OF_THE_JUGGERNAUT",
@@ -641,7 +647,8 @@
       "rarity": "ROYAL",
       "displayName": "Greaves of the Juggernaut",
       "texturePath": "telos:material/armour/heavy/leggings/ut-crayfish",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CLOAK_OF_BLOODY_SURPRISES",
@@ -726,7 +733,8 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Shield",
       "texturePath": "telos:material/ability/shield/ut-crystal",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CRYSTAL_BOOTS",
@@ -769,14 +777,16 @@
       "rarity": "ROYAL",
       "displayName": "Ethereal Longbow",
       "texturePath": "telos:material/weapon/bow/ut-ethereal",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SPECTRAL_ARMOUR",
       "rarity": "ROYAL",
       "displayName": "Spectral Armour",
       "texturePath": "telos:material/armour/light/chestplate/ut-spectral",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "OCEANIC_TORRENT",
@@ -904,7 +914,8 @@
       "rarity": "ROYAL",
       "displayName": "Cultist Hood",
       "texturePath": "telos:material/armour/magical/helmet/ut-cultist",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SOULS_OF_THE_CULT",
@@ -932,7 +943,8 @@
       "rarity": "ROYAL",
       "displayName": "Blossom Blade",
       "texturePath": "telos:material/weapon/katana/ut-blossom",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DILAPIDATED_SCRIPTURE",
@@ -1445,21 +1457,24 @@
       "rarity": "BLOODSHOT",
       "displayName": "Usnea",
       "texturePath": "telos:material/ability/skull/ut-usnea",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "NATURES_GIFT",
       "rarity": "BLOODSHOT",
       "displayName": "Nature's Gift",
       "texturePath": "telos:material/armour/light/boots/ut-nature",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "SPIRITBLOOM_GOWN",
       "rarity": "BLOODSHOT",
       "displayName": "Spiritbloom Gown",
       "texturePath": "telos:material/armour/magical/chestplate/ut-spiritbloom",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "MOSSLIGHT",
