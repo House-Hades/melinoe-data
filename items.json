@@ -115,7 +115,8 @@
       "rarity": "IRRADIATED",
       "displayName": "Sandstone Emblem",
       "texturePath": "telos:material/ability/emblem/ut-sandstone",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "LOST_CLERIC",
@@ -179,7 +180,8 @@
       "rarity": "IRRADIATED",
       "displayName": "Choji's Tunic",
       "texturePath": "telos:material/armour/light/chestplate/ut-tunic",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "YINYANG",
@@ -352,7 +354,8 @@
       "rarity": "GILDED",
       "displayName": "Dwarven Emblem",
       "texturePath": "telos:material/ability/emblem/ut-dwarven",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "DWARVEN_CLOAK",
@@ -388,7 +391,8 @@
       "rarity": "GILDED",
       "displayName": "Lightning Chaps",
       "texturePath": "telos:material/armour/light/leggings/ut-lightning",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "LIGHTNING_SABATONS",
@@ -578,7 +582,8 @@
       "rarity": "ROYAL",
       "displayName": "Bow of the Forest",
       "texturePath": "telos:material/weapon/bow/ut-forest",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CURSED_BRIGADINE",
@@ -1072,7 +1077,8 @@
       "rarity": "ROYAL",
       "displayName": "Cinder Reach",
       "texturePath": "telos:material/weapon/bow/ut-cinder",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "CINDER_SCRIPTURE",
@@ -1763,7 +1769,8 @@
       "rarity": "ROYAL",
       "displayName": "Chief's Crown",
       "texturePath": "telos:material/armour/magical/helmet/ut-chief",
-      "maxPity": 120
+      "maxPity": 120,
+      "hasShiny": true
     },
     {
       "name": "GHASTLY_HOWL",
